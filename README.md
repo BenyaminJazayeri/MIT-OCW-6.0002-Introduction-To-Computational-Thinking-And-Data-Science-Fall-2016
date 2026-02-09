@@ -21,6 +21,12 @@ Course Link: https://ocw.mit.edu/courses/6-0002-introduction-to-computational-th
 | Data Analysis | Understanding and interpreting experimental data |
 | Machine Learning | Introduction to machine learning, clustering, classification, statistical errors |
 
+## Coursework
+
+| Type | Count |
+|------|-------|
+| Problem Sets | 5 |
+
 ## My Other MIT Coursework
 
 [18.01SC Single Variable Calculus](https://github.com/BenyaminJazayeri/MIT-OCW-18.01SC-Single-Variable-Calculus-Fall-2010) · [18.02SC Multivariable Calculus](https://github.com/BenyaminJazayeri/MIT-OCW-18.02SC-Multivariable-Calculus-Fall-2010) · [18.06SC Linear Algebra](https://github.com/BenyaminJazayeri/MIT-OCW-18.06SC-Linear-Algebra-Fall-2011) · [6.0001 Intro to CS & Programming in Python](https://github.com/BenyaminJazayeri/MIT-OCW-6.0001-Introduction-To-Computer-Science-And-Programming-In-Python-Fall-2016) · [6.006 Introduction to Algorithms](https://github.com/BenyaminJazayeri/MIT-OCW-6.006-Introduction-To-Algorithms-Fall-2011) · [6.034 Artificial Intelligence](https://github.com/BenyaminJazayeri/MIT-OCW-6.034-Artificial-Intelligence-Fall-2010) · [6.036 Introduction to Machine Learning](https://github.com/BenyaminJazayeri/MIT-Open-Learning-6.036-Introduction-To-Machine-Learning-Spring-2019) · [6.042J Mathematics for Computer Science](https://github.com/BenyaminJazayeri/MIT-OCW-6.042J-Mathematics-For-Computer-Science-Fall-2010)
