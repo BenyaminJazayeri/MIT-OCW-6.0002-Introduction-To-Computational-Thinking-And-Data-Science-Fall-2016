@@ -21,7 +21,7 @@ Course Link: https://ocw.mit.edu/courses/6-0002-introduction-to-computational-th
 | Data Analysis | Understanding and interpreting experimental data |
 | Machine Learning | Introduction to machine learning, clustering, classification, statistical errors |
 
-## Coursework
+## Coursework Done
 
 | Type | Count |
 |------|-------|
