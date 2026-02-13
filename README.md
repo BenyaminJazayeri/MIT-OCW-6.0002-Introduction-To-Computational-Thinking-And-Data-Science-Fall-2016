@@ -27,6 +27,20 @@ Course Homepage: https://ocw.mit.edu/courses/6-0002-introduction-to-computationa
 |------|-------|
 | Problem Sets | 5 |
 
+## Projects
+
+### [Bacteria Population & Antibiotic Resistance Simulation](./Problem%20Set%204)
+A stochastic simulation of bacterial growth, mutation, and natural selection under antibiotic treatment. Models probabilistic birth/death, carrying capacity, and resistance mutation using Monte Carlo trials. Computes population means, standard deviations, and 95% confidence intervals from scratch.
+
+### [Climate Data Regression & Overfitting Analysis](./Problem%20Set%205)
+A data analysis pipeline modeling temperature trends across 21 US cities (1961-2015) using polynomial regression. Implements moving average smoothing, R²/RMSE metrics, and a train/test split demonstrating overfitting.
+
+### [Robot Room Cleaning Monte Carlo Simulation](./Problem%20Set%203)
+A Monte Carlo simulation of robot vacuum cleaners in rooms with and without furniture. Features a multi-level class hierarchy with abstract base classes. The faulty robot variant has a 15% chance of random distraction. Estimates expected cleaning time through repeated stochastic trials.
+
+### [Constrained Campus Pathfinding](./Problem%20Set%202)
+A graph-based shortest-path system for navigating the MIT campus. Implements a directed graph with weighted edges and a depth-first search with branch-and-bound pruning that finds the shortest route subject to a maximum outdoor distance constraint.
+
 ## My Other MIT Coursework
 
 [18.01SC Single Variable Calculus](https://github.com/BenyaminJazayeri/MIT-OCW-18.01SC-Single-Variable-Calculus-Fall-2010)<br>
